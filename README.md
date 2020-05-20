@@ -42,7 +42,7 @@ Just make a Pull Request and make your magic!
 
 ### Todos
 
- - Redboot the Design to Metro UI
+ - Reboot the Design to Metro UI
  - Implement Stopwatch Functionality
  - switch for Dark & Light Modes
  - App window scaling freely
