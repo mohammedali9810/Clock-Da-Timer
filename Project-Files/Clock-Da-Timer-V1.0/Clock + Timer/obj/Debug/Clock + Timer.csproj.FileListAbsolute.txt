@@ -1,0 +1,23 @@
+c:\users\moham\onedrive\documents\visual studio 2017\Projects\Clock + Timer\Clock + Timer\bin\Debug\Clock + Timer.exe.config
+c:\users\moham\onedrive\documents\visual studio 2017\Projects\Clock + Timer\Clock + Timer\bin\Debug\Clock + Timer.exe
+c:\users\moham\onedrive\documents\visual studio 2017\Projects\Clock + Timer\Clock + Timer\bin\Debug\Clock + Timer.pdb
+c:\users\moham\onedrive\documents\visual studio 2017\Projects\Clock + Timer\Clock + Timer\obj\Debug\Clock + Timer.csprojResolveAssemblyReference.cache
+c:\users\moham\onedrive\documents\visual studio 2017\Projects\Clock + Timer\Clock + Timer\obj\Debug\Clock___Timer.Form1.resources
+c:\users\moham\onedrive\documents\visual studio 2017\Projects\Clock + Timer\Clock + Timer\obj\Debug\Clock___Timer.Properties.Resources.resources
+c:\users\moham\onedrive\documents\visual studio 2017\Projects\Clock + Timer\Clock + Timer\obj\Debug\Clock + Timer.csproj.GenerateResource.Cache
+c:\users\moham\onedrive\documents\visual studio 2017\Projects\Clock + Timer\Clock + Timer\obj\Debug\Clock + Timer.exe
+c:\users\moham\onedrive\documents\visual studio 2017\Projects\Clock + Timer\Clock + Timer\obj\Debug\Clock + Timer.pdb
+c:\users\moham\onedrive\documents\visual studio 2017\Projects\Clock + Timer\Clock + Timer\obj\Debug\Interop.WMPLib.dll
+c:\users\moham\onedrive\documents\visual studio 2017\Projects\Clock + Timer\Clock + Timer\obj\Debug\Clock + Timer.csproj.ResolveComReference.cache
+K:\Drive\FOR-Git\Clock + Timer\Clock + Timer\bin\Debug\Clock + Timer.exe.config
+K:\Drive\FOR-Git\Clock + Timer\Clock + Timer\bin\Debug\Clock + Timer.exe
+K:\Drive\FOR-Git\Clock + Timer\Clock + Timer\bin\Debug\Clock + Timer.pdb
+K:\Drive\FOR-Git\Clock + Timer\Clock + Timer\obj\Debug\Clock + Timer.csprojAssemblyReference.cache
+K:\Drive\FOR-Git\Clock + Timer\Clock + Timer\obj\Debug\Interop.WMPLib.dll
+K:\Drive\FOR-Git\Clock + Timer\Clock + Timer\obj\Debug\Clock + Timer.csproj.ResolveComReference.cache
+K:\Drive\FOR-Git\Clock + Timer\Clock + Timer\obj\Debug\Clock___Timer.Clock_Da_Timer.resources
+K:\Drive\FOR-Git\Clock + Timer\Clock + Timer\obj\Debug\Clock___Timer.Properties.Resources.resources
+K:\Drive\FOR-Git\Clock + Timer\Clock + Timer\obj\Debug\Clock + Timer.csproj.GenerateResource.cache
+K:\Drive\FOR-Git\Clock + Timer\Clock + Timer\obj\Debug\Clock + Timer.csproj.CoreCompileInputs.cache
+K:\Drive\FOR-Git\Clock + Timer\Clock + Timer\obj\Debug\Clock + Timer.exe
+K:\Drive\FOR-Git\Clock + Timer\Clock + Timer\obj\Debug\Clock + Timer.pdb
